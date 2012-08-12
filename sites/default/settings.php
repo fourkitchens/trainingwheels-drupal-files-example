@@ -182,8 +182,8 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'mt_trainingwheels',
-      'username' => 'el_mt_d',
+      'database' => 'twexample',
+      'username' => 'twexample',
       'password' => 'PeL0dnAKEviG',
       'host' => 'localhost',
       'port' => '',
